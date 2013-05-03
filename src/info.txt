@@ -1,0 +1,11 @@
+{'CPU type': 'Pentium(R) Dual-Core  CPU      E5200  @ 2.50GHz', 'CPU speed': '1200.000Hz', 'cache size': '2048 KB'}
+Linux
+turing22
+3.2.0-40-generic
+#64-Ubuntu SMP Mon Mar 25 21:22:26 UTC 2013
+i686
+i686
+Linux-3.2.0-40-generic-i686-with-Ubuntu-12.04-precise
+2.7.3
+default
+Aug  1 2012 05:16:07
